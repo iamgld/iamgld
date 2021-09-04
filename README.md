@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on @syloper
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on Caprichos Outfits
+- 🤔 I’m looking for help with Caprichos Outfits
+- 💬 Ask me about Typescript
+- 📫 How to reach me: contact@iamgld.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: do you like arepas ?
+
 <!--
 **iamgld/iamgld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
