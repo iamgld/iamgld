@@ -1,0 +1,13 @@
+.Heading-one,
+.Heading-two {
+	border: none;
+	text-align: center;
+}
+
+.Heading-one {
+	margin-bottom: 0;
+}
+
+.Heading-two {
+	margin-bottom: 1rem;
+}
