@@ -1,5 +1,5 @@
-<h3 align="center" style="border-bottom: none; font-size: 2rem;">Hi everyone 🤟🏾 I'm Gregor 👨🏾‍💻</h1>
-<h3 align="center" style="margin-bottom: 1.5rem; border-bottom: none; font-size: 1.5rem;">Frontend Developer and Typescript Lover</h2>
+<h3 align="center" style="border-bottom: none; font-size: 2rem;">Hi everyone 🤟🏾 I'm Gregor 👨🏾‍💻</h3>
+<h3 align="center" style="margin-bottom: 1.5rem; border-bottom: none; font-size: 1.5rem;">Frontend Developer and Typescript Lover</h3>
 
 - 🔭 I’m currently working on @syloper
 - 🌱 I’m currently learning Angular and Ionic
@@ -39,7 +39,7 @@
   
 <div style="margin-bottom:1rem;"></div>
 
-<div styles="display: flex; place-items: center">
+<div style="display: flex; place-items: center;>
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <!-- Instagram -->
   <a href="https://instagram.com/iamgld__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
