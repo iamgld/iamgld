@@ -1,5 +1,5 @@
-<h1 align="center" style="border-bottom: none;">Hi everyone 🤟🏾 I'm Gregor 👨🏾‍💻</h1>
-<h2 align="center" style="margin-bottom: 1.5rem; border-bottom: none;">Frontend Developer and Typescript Lover</h2>
+<h3 align="center" style="border-bottom: none; font-size: 2rem;">Hi everyone 🤟🏾 I'm Gregor 👨🏾‍💻</h1>
+<h3 align="center" style="margin-bottom: 1.5rem; border-bottom: none; font-size: 1.5rem;">Frontend Developer and Typescript Lover</h2>
 
 - 🔭 I’m currently working on @syloper
 - 🌱 I’m currently learning Angular and Ionic
