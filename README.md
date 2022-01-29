@@ -28,7 +28,7 @@
 
 <div style="margin-bottom:1rem;"></div>
 
-<div style="display: inline-block; text-aling: center"><br>
+<div style="display: inline-block;"><br>
   <img align="center" alt="Gregor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gregor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gregor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -37,9 +37,9 @@
   
 </div>
   
-<div style="margin-bottom:1rem;"></div>
+<div style="margin-bottom:2rem;"></div>
 
-<div style="display: flex; justify-content: center">
+<div>
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <!-- Instagram -->
   <a href="https://instagram.com/iamgld__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
