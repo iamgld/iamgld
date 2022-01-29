@@ -1,4 +1,4 @@
-<h1 align="center" style="border: none;">Hi everyone i'm Gregor</h1>
+<h1 align="center" style="border: none;">Hi everyone 🤟🏾 I'm Gregor 👨🏾‍💻</h1>
 <h2 align="center" style="margin-bottom: 1.5rem">Frontend Developer and Typescript Lover</h2>
 
 - 🔭 I’m currently working on @syloper
@@ -26,7 +26,7 @@
 
 ---
 
-<div style="margin-bottom:2rem;"></div>
+<div style="margin-bottom:1rem;"></div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gregor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,12 +37,19 @@
   
 </div>
   
+<div style="margin-bottom:1rem;"></div>
+
 <div>
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <!-- Instagram -->
   <a href="https://instagram.com/iamgld__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.twitch.tv/iamgldi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+ <!-- Mail -->
   <a href = "mailto:contact@iamgld.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/iamgld" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/iamgld_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 </div>
