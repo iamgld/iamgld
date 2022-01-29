@@ -28,7 +28,7 @@
   <img align="center" alt="Gregor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gregor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="gregor-pic" height="150" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/29784747?v=4">
+  <img align="right" alt="gregor-pic" height="150" style="border-radius:20px;" src="https://avatars.githubusercontent.com/u/29784747?v=4">
 </div>
   
 <div>
