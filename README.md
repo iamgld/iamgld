@@ -51,6 +51,5 @@
   <a href="https://github.com/iamgld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgld&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgld&layout=compact&langs_count=8&theme=shades-of-purple"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamgld&theme=shades-of-purple" alt="iamgld" />
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamgld&theme=shades-of-purple" alt="iamgld" /></p>
