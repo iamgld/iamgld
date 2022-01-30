@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **contact@iamgld.com**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/nggld-9797.appspot.com/o/cv%2Fiamgld-cv.pdf?alt=media&token=b9691cb4-774a-4d12-8321-d8b8a083d29c](https://firebasestorage.googleapis.com/v0/b/nggld-9797.appspot.com/o/cv%2Fiamgld-cv.pdf?alt=media&token=b9691cb4-774a-4d12-8321-d8b8a083d29c)
+- 📄 Know about my experiences [https://iamgld.com/cv](https://iamgld.com/cv)
 
 - ⚡ Fun fact **you love arepas ?**
 
