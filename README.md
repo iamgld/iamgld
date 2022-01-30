@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://iamgld.com](https://iamgld.com)
 
-- 📝 I regularly write articles on [https://iamgld.com/blog](https://iamgld.com/blog)
+- 📝 I regularly write articles on [https://blog.iamgld.com](https://blog.iamgld.com)
 
 - 💬 Ask me about **Typescript**
 
 - 📫 How to reach me **contact@iamgld.com**
 
-- 📄 Know about my experiences [https://iamgld.com/cv](https://iamgld.com/cv)
+- 📄 Know about my experiences [https://resumen.iamgld.com](https://resumen.iamgld.com)
 
 - ⚡ Fun fact **you love arepas ?**
 
