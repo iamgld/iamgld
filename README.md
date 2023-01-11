@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone 🤟🏾 I'm Gregor 👨🏾‍💻</h1>
-<h3 align="center">Frontend Developer and Typescript Lover</h3>
+<h1 align="center">Hey there 🤟🏾 I'm Gregor 👨🏾‍💻</h1>
+<h3 align="center">Frontend Developer & Tech Lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgld&label=Profile%20views&color=0e75b6&style=flat" alt="iamgld" /> </p>
 
